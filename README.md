@@ -1,5 +1,5 @@
- - 👀 I’m interested in aprender cada vez mais para me tornar um ótimo programador, em um futuro bem próximo
--  🌱 I’m currently learning  Python, Java, JavaScript, PHP
+ - 👀 I’m interested in learn more and more to become a great programmer in the very near future.
+-  🌱 I’m currently learning Python, Java, JavaScript, PHP.
 - 💞️ I’m looking to collaborate with new projects and creat my own projects.
 
 <!---
